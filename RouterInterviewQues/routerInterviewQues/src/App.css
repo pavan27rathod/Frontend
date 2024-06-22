@@ -1,0 +1,15 @@
+body{
+    padding: 10px;
+}
+
+.header{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.active{
+    padding: 5px 10px;
+    color: white;
+    background-color: black;
+}
